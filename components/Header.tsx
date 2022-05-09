@@ -15,11 +15,11 @@ export default function Header({}: Props) {
       <div className={styles.left}>
         <div>
           <a
-            href="https://thirdweb.com/"
+            href="https://thirdweb-nft-marketplace-roan.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={`/logo.png`} alt="Thirdweb Logo" width={135} />
+            <img src={`/logo.png`} alt="OF 1 NFT Logo" width={135} />
           </a>
         </div>
       </div>
